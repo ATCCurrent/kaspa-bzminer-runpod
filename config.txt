@@ -1,5 +1,5 @@
 algorithm=kaspa
 wallet=kaspa:qrdn5dse4l2v0ay3j6gnyxz4x259h9qqgrt9ywavtsgvme5eqyw75fn06wdfv
 pool=stratum+tcp://pool.kaspa-mining.net:2000
-watchdog=false
 nvidia=true
+watchdog=false
